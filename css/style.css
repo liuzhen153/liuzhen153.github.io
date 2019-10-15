@@ -9,7 +9,7 @@
  */
 
 /**
- * 
+ *
  */
 
 /* Mixins */
@@ -8194,6 +8194,9 @@ body.okayNav-loaded {
     padding-right: 2px;
   }
 
+  .marked-body{
+    margin-bottom: 50px;
+  }
   .marked-body .markdownIt-Anchor:before {
     margin-left: -20px;
   }

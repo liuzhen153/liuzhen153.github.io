@@ -74,4 +74,7 @@ $(function() {
     }
     $menuList[activeIndex] && $($menuList[activeIndex]).addClass('active');
   }
+
+  // 自动展示目录
+  $('.toggle-btn').trigger('click')
 });
