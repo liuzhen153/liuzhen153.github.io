@@ -74,7 +74,9 @@ $(function() {
     }
     $menuList[activeIndex] && $($menuList[activeIndex]).addClass('active');
   }
+  if ($(document.body).width() > 767) {
+    // 自动展示目录
+    $('.toggle-btn').trigger('click')
+  }
 
-  // 自动展示目录
-  $('.toggle-btn').trigger('click')
 });
