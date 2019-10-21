@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liuzhen153.github.io/2019/10/21/2019-10-21/</loc>
+    
+    <lastmod>2019-10-21T09:24:41.088Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://liuzhen153.github.io/2019/10/17/2019-10-17/</loc>
     
     <lastmod>2019-10-17T12:18:42.867Z</lastmod>
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>http://liuzhen153.github.io/tags/index.html</loc>
+    <loc>http://liuzhen153.github.io/categories/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://liuzhen153.github.io/categories/index.html</loc>
+    <loc>http://liuzhen153.github.io/books/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://liuzhen153.github.io/books/index.html</loc>
+    <loc>http://liuzhen153.github.io/tags/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
